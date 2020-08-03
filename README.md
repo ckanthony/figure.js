@@ -1,2 +1,4 @@
+# ✍🏻 WIP
+
 # figure.js
-JavaScript library for money and currency parsing/formatting
+💰 JavaScript library for money and currency parsing/formatting
